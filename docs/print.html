@@ -266,17 +266,20 @@ Date Range: ... - ...</p>
 <li>Friday: last day of class</li>
 </ul>
 <h2><a class="header" href="#final" id="final">Final</a></h2>
-<h1><a class="header" href="#extra-credit" id="extra-credit">Extra Credit</a></h1>
-<h2><a class="header" href="#analyze-demographic-data-that-describes-liberia" id="analyze-demographic-data-that-describes-liberia">Analyze demographic data that describes Liberia</a></h2>
-<p>For this extra credit assignment, you are asked to analyze demographic data that describes the West African country Liberia.  In order to complete this assignment, you will need to complete the following steps.</p>
+<h1><a class="header" href="#data-146-introduction-to-data-science-1" id="data-146-introduction-to-data-science-1">DATA 146: Introduction to Data Science</a></h1>
+<h2><a class="header" href="#extra-credit-report---due-" id="extra-credit-report---due-">Extra Credit Report - due ...</a></h2>
+<h3><a class="header" href="#analyze-demographic-data-that-describes-liberia" id="analyze-demographic-data-that-describes-liberia">Analyze demographic data that describes Liberia</a></h3>
+<p>For this extra credit assignment, you are asked to analyze a portions of a household survey that describes the demographic composition of the West African country Liberia.  A household survey is a random, clustered and stratified sample from the larger population.  In order to successfully obtain the extra credit, you will need to complete the following steps.</p>
 <ul>
-<li>Download the file <code>.csv</code> from the following link and import it to your python work space.
-<ul>
-<li><a href="https://github.com/tyler-frazier/intro_to_datascience/blob/main/data/pns.csv">Persons</a> </li>
+<li>Join the slack channel <a href="https://wmdsi.slack.com/archives/C01CMJ0LGQJ">DATA146 Extra Credit</a> and proceed to download the pinned file <code>lbr_persons.csv</code>.  If you have any difficulties accessing the team slack chat or downloading the <code>.csv</code> file please e-mail me at <a href="mailto:tjfrazier@wm.edu">tjfrazier@wm.edu</a> or preferably send me a direct slack message at <a href="https://wmdsi.slack.com/archives/DFBP51L9H">Tyler Frazier</a></li>
+<li>After you have downloaded the <code>.csv</code> file, <code>import pandas</code> and then also use the <code>pd.read_csv()</code> command to import the <code>.csv</code> file as a new <code>data.frame</code> into your <strong>python</strong> workspace.</li>
+<li>For starters assign <code>education</code> to a new <code>data.frame</code> as your <code>y</code> label.  Follow that by assigning all of the features, also as a data.frame, to <code>x</code>.</li>
+<li>Use <code>train_test_split()</code> from <code>sklearn.model_selection</code> to create your training and testing datasets for both your features and labels.  Train a logistic regression model by specifying <code>logistic_regression.fit()</code> with your features and labels.  Use <code>logistic_regression.predict()</code> with your test features to estimate the accuracy of your trained logistic regression model.  Are you able to use <code>metrics.accuracy_score()</code> to produce the probability (in percent) of predicting the correct outcome with your model?</li>
+<li>Try scaling and/or normalizing the data to determine if doing so will improves your model's predictive power. Import from methods from <code>sklearn.preprocessing</code> and use with the <code>fit_transform()</code> and <code>transform()</code> command.  For example you may want to start with <code>xtrain = minmax.fit_transform(x_train)</code> to see if that transformation improves your model's predictive power.  Also try <code>RobustScaler()</code>, <code>StandardScaler()</code> and <code>Normalizer()</code>.  Did any of these scaled transformations improve your model's predictive power when applied to the data before <code>.fit()</code> and then <code>.predict()</code>.</li>
+<li>Also specify and train a kNN model.  How does kNN perform in comparison to your best logistic regression?</li>
+<li>How about a decision tree or a random forest model?  Are you able to outperform the logistic regression with either approach?</li>
 </ul>
-</li>
-</ul>
-<p><a href="data/pns.csv" download="pns.csv">download this</a></p>
+<p>Write a 2 to 3 page report that describes your investigation into the demographic data. Introduce your report by describing the data itself in terms of its size and shape. Produce histograms, pairwise correlation and probability density function plots of the data in order further introduce your investigation. Provide estimates of accuracy from each of the four or five implementations as part of the report on your investigation into the data. Instead of using the <code>education</code> column from the <code>data.frame</code> as your label, you are also welcome to try using the <code>wealth</code> column.  Publish your extra credit report on GitHub as a GitHub webpage and share your link to the slack channel above.  Please feel free to ask questions on the slack channel and I will be happy to provide further direction or advice as needed.  Your extra credit report is due ...</p>
 
                     </main>
 
