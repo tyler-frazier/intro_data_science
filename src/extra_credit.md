@@ -10,6 +10,8 @@ For this extra credit assignment, you are asked to analyze demographic data that
 
 <a id="raw-url" href="https://raw.githubusercontent.com/tyler-frazier/intro_to_datascience/master/pns.csv">Download FILE</a>
 
+<a href="data/pns.csv" download="pns.csv">download this</a>
+
 
 
 
