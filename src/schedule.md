@@ -9,7 +9,7 @@
 - Friday:
     - Using GitHub & Markdown
     - For next time:
-        - [Getting Started](https://tyler-frazier.github.io/dsbook/getting_started.html)
+      - [Getting Started with Python & PyCharm](https://tyler-frazier.github.io/dsbook/pystart.html)
 
 ## Week 2 (2/1)
 - Monday:
