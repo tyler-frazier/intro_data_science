@@ -5,7 +5,7 @@
     - Introductions
         - Zoom, Slack, Blackboard & the Syllabus
     - For next time:
-        - [Getting Started](https://tyler-frazier.github.io/dsbook/getting_started.html)
+        - [Getting Started with GitHub, Markdown & Webstorm](https://tyler-frazier.github.io/dsbook/gitstart.html)
 - Friday:
     - Using GitHub & Markdown
     - For next time:
