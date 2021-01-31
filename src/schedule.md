@@ -13,22 +13,25 @@
 
 ## Week 2 (2/1)
 - Monday:
-    - Lecture
+    - Lecture: intro to Python  
+      https://cwm.zoom.us/j/91505393820?pwd=Sk1HY1dQeHRxa0oweTlyck5FSU5lQT09  
+      Meeting ID: 915 0539 3820  
+      Passcode: 31415926
 - Wednesday:
-    - Using PyCharm
+    - Using Python & PyCharm
 - Friday: add/drop period ends
-    - Using PyCharm
+    - Using Python & PyCharm
 
 ## Week 3 (2/8)
 - Monday:
-    - Lecture
+  - Lecture: data pipeline
 - Wednesday:
     - Module 1.1
-- Friday: Spring Break Day, No Class (2/12)
+- Friday: Spring Break Day, no class (2/12)
 
 ## Week 4 (2/15)
 - Monday:
-    - Lecture
+    - Lecture: descriptive Analysis etc...
 - Wednesday:
     - Module 2.1
 - Friday:
@@ -37,7 +40,7 @@
 
 ## Week 5 (2/22)
 - Monday:
-    - Lecture
+    - Lecture: regression
 - Wednesday:
     - Module 3.1
 - Friday:
@@ -45,7 +48,7 @@
 
 ## Week 6 (3/1)
 - Monday:
-  - Lecture
+  - Lecture: model validation
 - Wednesday:
   - Module 3.3
 - Friday:
@@ -53,7 +56,7 @@
 
 ## Week 7 (3/8)
 - Monday:
-    - Lecture
+    - Lecture: regularization
 - Wednesday:
     - Module 3.5
 - Friday:
@@ -61,14 +64,14 @@
 
 ## Week 8 (3/15)
 - Monday:
-    - Review
+    - Review, no "common" meeting
 - Wednesday: Spring Break Day, No Class (3/17)
 - Friday:
     - Project 1
 
 ## Week 9 (3/22)
 - Monday:
-  - Lecture
+  - Lecture: classification
 - Wednesday:
   - Module 4.1
 - Friday:
@@ -76,7 +79,7 @@
 
 ## Week 10 (3/29)
 - Monday:
-  - Lecture
+  - Lecture: decision trees & random forest
 - Wednesday:
   - Module 4.3
 - Friday:
@@ -84,14 +87,14 @@
 
 ## Week 11 (4/5)
 - Monday:
-  - Lecture
-- Wednesday: Spring Break Day, No Class (4/7)
+  - Lecture: clustering (1)
+- Wednesday: Spring Break Day, no class (4/7)
 - Friday:
   - Module 5.1
 
 ## Week 12 (4/12)
 - Monday:
-  - Lecture
+  - Lecture: clustering (2)
 - Wednesday:
   - Module 5.2
 - Friday:
@@ -99,16 +102,16 @@
 
 ## Week 13 (4/19)
 - Monday:
-  - Lecture
+  - Lecture: neural networks (1)
 - Wednesday:
   - Module 6.1
 - Friday:
   - Module 6.2
 
 ## Week 14 (4/26)
-- Monday: Spring Break Day, No Class
+- Monday: Spring Break Day, no class
 - Wednesday:
-  - Lecture
+  - Lecture: neural networks (2)
 - Friday:
   - Module 6.3
 
