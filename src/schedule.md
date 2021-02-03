@@ -9,16 +9,13 @@
 - Friday:
     - Using GitHub & Markdown
     - For next time:
-      - [Getting Started with Python & PyCharm](https://tyler-frazier.github.io/dsbook/pystart.html)
+      - [Installing Python & PyCharm](https://tyler-frazier.github.io/dsbook/pyinstall.html)
 
 ## Week 2 (2/1)
 - Monday:
-    - Lecture: intro to Python  
-      https://cwm.zoom.us/j/91505393820?pwd=Sk1HY1dQeHRxa0oweTlyck5FSU5lQT09  
-      Meeting ID: 915 0539 3820  
-      Passcode: 31415926
+    - Lecture: intro to Python
 - Wednesday:
-    - Using Python & PyCharm
+    - [Getting Started with Python & PyCharm](https://tyler-frazier.github.io/dsbook/pystart.html)
 - Friday: add/drop period ends
     - Using Python & PyCharm
 
