@@ -17,7 +17,7 @@
 - Wednesday:
     - [Getting Started with Python & PyCharm](https://tyler-frazier.github.io/dsbook/pystart.html)
 - Friday: add/drop period ends
-    - Using Python & PyCharm
+    - [Getting Started with Python & PyCharm](https://tyler-frazier.github.io/dsbook/pystart.html)
 
 ## Week 3 (2/8)
 - Monday:
