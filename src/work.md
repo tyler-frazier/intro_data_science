@@ -21,5 +21,3 @@
 - [Sam Cooksey](https://sam-cooksey.github.io/data146/)
 - [Andrea Del Carpio](https://ajdelcarpiogom.github.io/DATA146)
 - [Hayley Shankle](https://hvshankle.github.io/DATA-146/)
-
-test
