@@ -23,14 +23,16 @@
 - Monday:
   - Lecture: data pipeline
 - Wednesday:
-    - Module 1.1
+  - Open session, workshop & review
 - Friday: Spring Break Day, no class (2/12)
+  - [Project 1](prj1.md) upload your response to your GitHub page by midnight on Wednesday, February 17th 
 
 ## Week 4 (2/15)
 - Monday:
     - Lecture: descriptive Analysis etc...
 - Wednesday:
     - Module 2.1
+    - Project 1 due by midnight
 - Friday:
     - Module 2.2
 
