@@ -3,7 +3,7 @@
 - [Peter Woo](https://pterwoo.github.io/DATA-146/)  
 - [Lucy Greenman](https://lucyag835.github.io/Data146/)
 - [Jason Lin](https://jasonlin45.github.io/data146/)
-- [Emma Sherman](https://emmasherman.github.io/data_146/)
+- [Emma Sherman](https://emmasherman.github.io/data146/)
 - [Andrew Luchs](https://aluchs.github.io/DATA146/)
 - [Amanda Reed](https://amanda-reed.github.io/DATA146/)
 - [Meredith Jolly](https://meredithjolly.github.io/data146/)
