@@ -22,4 +22,4 @@
 - [Andrea Del Carpio](https://ajdelcarpiogom.github.io/DATA146)
 - [Hayley Shankle](https://hvshankle.github.io/DATA-146/)
 - [Jason Wright](https://github.com/j1wright)
-- [Morgan Logsdon](https://melogsdon.github.io/)
+- [Morgan Logsdon](https://melogsdon.github.io/DATA146/)
