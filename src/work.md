@@ -9,7 +9,7 @@
 - [Meredith Jolly](https://meredithjolly.github.io/data146/)
 - [Reeva Sachdev](https://rasachdev.github.io/data146/)
 - [Andy Kim](https://bandyboy03.github.io/data_146/)
-- [Kellyn McKee]( https://kemckee.github.io/workbook/)
+- [Kellyn McKee](https://kemckee.github.io/Data146/)
 - [Katherine Yarnal](https://kayarnal.github.io/Data-146/)
 - [Serena Liu](https://serena-zheyiliu.github.io/DATA146_Serena/)
 - [Emily Wydra](https://ecwydra.github.io/data-146-page/)
