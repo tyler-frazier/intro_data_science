@@ -14,7 +14,7 @@
 - [Serena Liu](https://serena-zheyiliu.github.io/DATA146_Serena/)
 - [Emily Wydra](https://ecwydra.github.io/data-146-page/)
 - [Jason Dean Robinson](https://jdr0bins0n.github.io/data146/)
-- [Wei Wang](https://wwang-17.github.io/New_Project/)
+- [Wei Wang](https://wwang-17.github.io/DATA146/)
 - [Yile Xu](https://yile-xu.github.io/DATA146/)
 - [Emily Lo](https://emilyyyyyllo.github.io/DATA146/)
 - [Logan Harms](https://laharms01.github.io/data146_repository/)
