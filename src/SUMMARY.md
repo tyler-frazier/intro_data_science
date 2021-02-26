@@ -3,4 +3,5 @@
 [Semester Schedule](schedule.md)
 - [Projects](projects.md)
     - [Project 1](prj1.md)
+    - [Project 2](prj2.md)
 - [Student Work](work.md)
