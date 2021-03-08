@@ -31,88 +31,90 @@
 - Monday:
     - Lecture: descriptive Analysis etc...
 - Wednesday:
-    - Module 2.1
+    - Module 1
     - Project 1 due by midnight
 - Friday:
-    - Module 2.2
+    - Module 2
 
 
 ## Week 5 (2/22)
 - Monday:
     - Lecture: regression
 - Wednesday:
-    - Module 3.1
+    - Module 2
 - Friday:
-    - Module 3.2
+    - Module 2
 
 ## Week 6 (3/1)
 - Monday:
-  - Lecture: model validation
+  - Module 2
 - Wednesday:
-  - Module 3.3
+  - Module 3
+  - Project 2 due by midnight
 - Friday:
-  - Module 3.4
+  - Module 3
 
 ## Week 7 (3/8)
 - Monday:
     - Lecture: regularization
 - Wednesday:
-    - Module 3.5
+    - Module 3
 - Friday:
-    - Module 3.6
+    - Module 3
 
 ## Week 8 (3/15)
 - Monday:
     - Review, no "common" meeting
 - Wednesday: Spring Break Day, No Class (3/17)
 - Friday:
-    - Project 1
+    - Project 3 due by midnight
+    - Project 4
 
 ## Week 9 (3/22)
 - Monday:
   - Lecture: classification
 - Wednesday:
-  - Module 4.1
+  - Module 4
 - Friday:
-  - Module 4.2
+  - Module 4
 
 ## Week 10 (3/29)
 - Monday:
   - Lecture: decision trees & random forest
 - Wednesday:
-  - Module 4.3
+  - Module 4
 - Friday:
-  - Module 4.4
+  - Module 4
 
 ## Week 11 (4/5)
 - Monday:
   - Lecture: clustering (1)
 - Wednesday: Spring Break Day, no class (4/7)
 - Friday:
-  - Module 5.1
+  - Module 5
 
 ## Week 12 (4/12)
 - Monday:
   - Lecture: clustering (2)
 - Wednesday:
-  - Module 5.2
+  - Module 5
 - Friday:
-  - Module 5.3
+  - Module 5
 
 ## Week 13 (4/19)
 - Monday:
   - Lecture: neural networks (1)
 - Wednesday:
-  - Module 6.1
+  - Module 6
 - Friday:
-  - Module 6.2
+  - Module 6
 
 ## Week 14 (4/26)
 - Monday: Spring Break Day, no class
 - Wednesday:
   - Lecture: neural networks (2)
 - Friday:
-  - Module 6.3
+  - Module 6
 
 ## Week 15 (5/3)
 - Monday:
