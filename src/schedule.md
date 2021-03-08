@@ -67,8 +67,8 @@
     - Review, no "common" meeting
 - Wednesday: Spring Break Day, No Class (3/17)
 - Friday:
+    - Module 4
     - Project 3 due by midnight
-    - Project 4
 
 ## Week 9 (3/22)
 - Monday:
