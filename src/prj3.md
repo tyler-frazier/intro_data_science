@@ -8,7 +8,7 @@
 
 - Then train your dataset with the asking price as your target using a ridge regression model.  Now how did your model perform?  What were the training and testing scores you produced?  Did you standardize the data?  Interpret and assess your output.
 
-- Next, go back, train and test each of the three previous model types/specifications, but this time use the dataset charleston_act.csv (actual sale prices).  How did each of these three models perform after using the dataset that replaced asking price with the actual sale price?  What were the training and testing scores you produced?  Interpret and assess your output.
+- Next, go back, train and test each of the three previous model types/specifications, but this time use the dataset [charleston_act.csv](https://raw.githubusercontent.com/tyler-frazier/intro_data_science/main/data/charleston_act.csv) (actual sale prices).  How did each of these three models perform after using the dataset that replaced asking price with the actual sale price?  What were the training and testing scores you produced?  Interpret and assess your output.
 
 - Go back and also add the variables that indicate the zip code where each individual home is located within Charleston County, South Carolina.  Train and test each of the three previous model types/specifications.  How did each one fair?  Interpret and assess your output.
 
