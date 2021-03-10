@@ -65,10 +65,12 @@
 ## Week 8 (3/15)
 - Monday:
     - Review, no "common" meeting
+- Tuesday
+  - Project 3 due by midnight
 - Wednesday: Spring Break Day, No Class (3/17)
 - Friday:
     - Module 4
-    - Project 3 due by midnight
+
 
 ## Week 9 (3/22)
 - Monday:
