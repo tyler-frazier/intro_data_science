@@ -68,8 +68,12 @@
 - Tuesday
   - Project 3 due by midnight
 - Wednesday: Spring Break Day, No Class (3/17)
+- Thursday:
+  - Mid-term project begins -- 8AM
 - Friday:
-    - Module 4
+  - Mid-term continues
+- Sunday:
+  - Mid-term project due
 
 
 ## Week 9 (3/22)
