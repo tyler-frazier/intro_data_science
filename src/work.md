@@ -18,7 +18,7 @@
 - [Yile Xu](https://yile-xu.github.io/DATA146/)
 - [Emily Lo](https://emilyyyyyllo.github.io/DATA146/)
 - [Logan Harms](https://laharms01.github.io/data146_repository/)
-- [Sam Cooksey](https://sam-cooksey.github.io/data146/)
+- [Sam Cooksey](https://sam-cooksey.github.io/data146new/)
 - [Andrea Del Carpio](https://ajdelcarpiogom.github.io/DATA146)
 - [Hayley Shankle](https://hvshankle.github.io/DATA-146/)
 - [Jason Wright](https://github.com/j1wright)
