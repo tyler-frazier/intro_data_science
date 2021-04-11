@@ -78,49 +78,52 @@
 
 ## Week 9 (3/22)
 - Monday:
-  - Lecture: classification
+  - Mid-term project corrections
 - Wednesday:
-  - Module 4
+  - Mid-term project corrections
 - Friday:
-  - Module 4
+  - Mid-term project corrections
 
 ## Week 10 (3/29)
 - Monday:
   - Lecture: decision trees & random forest
 - Wednesday:
-  - Module 4
+  - Professor ill, class cancelled
 - Friday:
-  - Module 4
+  - Introduce kNN
 
 ## Week 11 (4/5)
 - Monday:
-  - Lecture: clustering (1)
+  - Review kNN
 - Wednesday: Spring Break Day, no class (4/7)
 - Friday:
-  - Module 5
+  - Common Lecture: Ron Smith - clustering techniques:  AHC, k-means & DBSCAN
 
 ## Week 12 (4/12)
 - Monday:
-  - Lecture: clustering (2)
+  - Logistic regression
+  - Project 5 assigned
 - Wednesday:
-  - Module 5
+  - Decision trees and random forest
 - Friday:
-  - Module 5
+  - ...
+- Sunday
+  - Project 5 due by midnight
 
 ## Week 13 (4/19)
 - Monday:
-  - Lecture: neural networks (1)
+  - ...
 - Wednesday:
-  - Module 6
+  - ...
 - Friday:
-  - Module 6
+  - ...
 
 ## Week 14 (4/26)
 - Monday: Spring Break Day, no class
 - Wednesday:
-  - Lecture: neural networks (2)
+  - ...
 - Friday:
-  - Module 6
+  - ...
 
 ## Week 15 (5/3)
 - Monday:
