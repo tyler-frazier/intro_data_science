@@ -83,7 +83,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div id="sidebar-scrollbox" class="sidebar-scrollbox">
-                <ol class="chapter"><li class="expanded affix "><a href="syllabus.html">Course Description</a></li><li class="expanded affix "><a href="schedule.html">Semester Schedule</a></li><li class="expanded "><a href="projects.html"><strong aria-hidden="true">1.</strong> Projects</a></li><li><ol class="section"><li class="expanded "><a href="prj1.html"><strong aria-hidden="true">1.1.</strong> Project 1</a></li><li class="expanded "><a href="prj2.html"><strong aria-hidden="true">1.2.</strong> Project 2</a></li><li class="expanded "><a href="prj3.html"><strong aria-hidden="true">1.3.</strong> Project 3</a></li><li class="expanded "><a href="...html"><strong aria-hidden="true">1.4.</strong> Mid-term corrections</a></li><li class="expanded "><a href="prj5pt1.html"><strong aria-hidden="true">1.5.</strong> Project 5 - Part 1</a></li></ol></li><li class="expanded "><a href="work.html"><strong aria-hidden="true">2.</strong> Student Work</a></li></ol>
+                <ol class="chapter"><li class="expanded affix "><a href="syllabus.html">Course Description</a></li><li class="expanded affix "><a href="schedule.html">Semester Schedule</a></li><li class="expanded "><a href="projects.html"><strong aria-hidden="true">1.</strong> Projects</a></li><li><ol class="section"><li class="expanded "><a href="prj1.html"><strong aria-hidden="true">1.1.</strong> Project 1</a></li><li class="expanded "><a href="prj2.html"><strong aria-hidden="true">1.2.</strong> Project 2</a></li><li class="expanded "><a href="prj3.html"><strong aria-hidden="true">1.3.</strong> Project 3</a></li><li class="expanded "><a href="...html"><strong aria-hidden="true">1.4.</strong> Mid-term corrections</a></li><li class="expanded "><a href="prj5pt1.html"><strong aria-hidden="true">1.5.</strong> Project 5 - Part 1</a></li><li class="expanded "><a href="prj5pt2.html"><strong aria-hidden="true">1.6.</strong> Project 5 - Part 2</a></li></ol></li><li class="expanded "><a href="work.html"><strong aria-hidden="true">2.</strong> Student Work</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -573,6 +573,29 @@ Date Range: Spring Semester 2021</p>
 </li>
 <li>
 <p>Which of the models produced the best results in predicting wealth of all persons throughout the smaller West African country being described?  Support your results with plots, graphs and descriptions of your code and its implementation.  You are welcome to incorporate snippets to illustrate an important step, but please do not paste verbose amounts of code within your project report.  Alternatively, you are welcome to provide a link in your references at the end of your (part 1) Project 5 report.</p>
+</li>
+</ul>
+<h1><a class="header" href="#project-5---part-2" id="project-5---part-2">Project 5 - Part 2</a></h1>
+<h3><a class="header" href="#create-a-new-markdown-file-and-upload-it-to-your-github-repository--provide-a-link-to-your-newly-created-project5md-file-from-your-main-index-parts-1--2--populate-your-newly-created-markdown-file-with-your-answers-to-the-following-questions--each-part-of-this-lab-is-worth-10-points--upload-your-response-no-later-than-midnight-on-sunday-april-25th" id="create-a-new-markdown-file-and-upload-it-to-your-github-repository--provide-a-link-to-your-newly-created-project5md-file-from-your-main-index-parts-1--2--populate-your-newly-created-markdown-file-with-your-answers-to-the-following-questions--each-part-of-this-lab-is-worth-10-points--upload-your-response-no-later-than-midnight-on-sunday-april-25th">Create a new markdown file and upload it to your GitHub repository.  Provide a link to your newly created <code>project5.md</code> file from your main index (parts 1 &amp; 2).  Populate your newly created markdown file with your answers to the following questions.  Each part of this lab is worth 10 points.  Upload your response no later than midnight on Sunday, April 25th.</a></h3>
+<ul>
+<li>Download the anonymized dataset describing <a href="https://raw.githubusercontent.com/tyler-frazier/intro_data_science/main/data/city_persons.csv">city_persons.csv</a> from a larger city in a West African county and import it into your PyCharm project workspace (right click and download from the above link or you can also find the data pinned to the slack channel).  This time we will only use the variable <code>wealthC</code> as your target. It is not necessary to set a seed.</li>
+</ul>
+<p>Import your libraries, functions and create the commands <code>DoKFold</code>, <code>GetData</code> and <code>CompareClasses</code> as we have previously done in class.  Import the data and then complete the following steps.</p>
+<ul>
+<li>
+<p>Execute a K-nearest neighbors classification method on the data.  What model specification returned the most accurate results?  Did adding a distance weight help?</p>
+</li>
+<li>
+<p>Execute a logistic regression method on the data.  How did this model fair in terms of accuracy compared to K-nearest neighbors?</p>
+</li>
+<li>
+<p>Next execute a random forest model and produce the results.  See the number of estimators (trees) to 100, 500, 1000 and 5000 and determine which specification is most likely to return the best model.  Also test the minimum number of samples required to split an internal node with a range of values.  Also produce results for your four different estimator values by both  comparing both standardized and non-standardized (raw) results.</p>
+</li>
+<li>
+<p>Repeat the previous steps after recoding the wealth classes 2 and 3 into a single outcome.  Do any of your models improve?  Can you explain what has happened and why?</p>
+</li>
+<li>
+<p>Which of the models produced the best results in predicting wealth of all persons throughout the large West African capital city being described?  Support your results with plots, graphs and descriptions of your code and its implementation.  You are welcome to incorporate snippets to illustrate an important step, but please do not paste verbose amounts of code within your project report.  Avoiding setting a seed essentially guarantees the authenticity of your results. You are welcome to provide a link in your references at the end of your (part 2) Project 5 report.</p>
 </li>
 </ul>
 <ul>

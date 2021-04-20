@@ -7,5 +7,7 @@
     - [Project 3](prj3.md)
     - [Mid-term corrections](...)
     - [Project 5 - Part 1](prj5pt1.md)
+    - [Project 5 - Part 2](prj5pt2.md)
+
 
 - [Student Work](work.md)
