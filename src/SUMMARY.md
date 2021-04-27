@@ -11,3 +11,5 @@
 
 
 - [Student Work](work.md)
+
+- [Extra Credit](extra_credit.md)
